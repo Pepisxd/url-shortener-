@@ -199,8 +199,3 @@ const linkSchema = new mongoose.Schema({
 - [ ] Crear una interfaz gráfica para el uso de la API.
 - [ ] Mejorar el manejo de errores.
 
----
-
-## **Licencia**
-Este proyecto se distribuye bajo la licencia MIT.
-
